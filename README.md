@@ -11,4 +11,6 @@ It has been build on a static IP 192.168.1.200
 
 **THIS IS A CLEAN DEVELOPMENT ENVIRONMENT**
 
+P.s.  After requests - I've added the .OVA file for VirtualBox too.
+
 Enjoy. ;-P
