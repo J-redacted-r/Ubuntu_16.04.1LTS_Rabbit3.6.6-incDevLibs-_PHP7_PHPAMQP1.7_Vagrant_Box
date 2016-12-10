@@ -1,0 +1,1 @@
+# Ubuntu_16.04.1LTS_Rabbit3.6.6-incDevLibs-_PHP7_PHPAMQP1.7_Vagrant_Box
